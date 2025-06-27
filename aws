@@ -1,0 +1,6 @@
+healthcare-aws-data-pipeline/
+├── data/
+├── scripts/
+├── glue_jobs/
+├── dashboards/
+└── README.md
